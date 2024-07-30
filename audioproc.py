@@ -9,8 +9,8 @@ from pitch import freq_to_number, pitch_name
 
 import matplotlib.pyplot as plt
 
-#AUDIO_FILE = "audio/piano_c_major_scale.wav"
-AUDIO_FILE = "audio/alina_dry.wav"
+AUDIO_FILE = "audio/piano_c_major_scale.wav"
+#AUDIO_FILE = "audio/alina_dry.wav"
 
 SCREEN_WIDTH        = 1248 # 24 * 52 (count of white keys)
 SCREEN_HEIGHT       = 450
