@@ -7,8 +7,8 @@ from scipy import io, signal
 from piano import draw_piano
 from pitch import freq_to_number, pitch_name
 
-AUDIO_FILE = "samples/alina.wav"
-#AUDIO_FILE = "samples/piano_c_major_scale.wav"
+#AUDIO_FILE = "samples/alina.wav"
+AUDIO_FILE = "samples/piano_c_major_scale.wav"
 SCREEN_WIDTH = 1248
 SCREEN_HEIGHT = 450
 FPS = 30 #Frames fer Second
